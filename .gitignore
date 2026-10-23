@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+.pytest_cache/
+
+# Registros de consultas (pueden contener datos sensibles) y normativa real descargada
+logs/*
+!logs/.gitkeep
+data/real/

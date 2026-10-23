@@ -1,0 +1,106 @@
+{
+  "n_total": 20,
+  "n_answerable": 15,
+  "n_unanswerable": 5,
+  "generator": "extractive",
+  "min_coverage": 0.34,
+  "retrieval": {
+    "hit@1": {
+      "k": 14,
+      "n": 15,
+      "value": 0.9333333333333333,
+      "ci95": [
+        0.7018292244757601,
+        0.9881334113938051
+      ]
+    },
+    "hit@3": {
+      "k": 15,
+      "n": 15,
+      "value": 1.0,
+      "ci95": [
+        0.7961107336956521,
+        1.0
+      ]
+    },
+    "hit@5": {
+      "k": 15,
+      "n": 15,
+      "value": 1.0,
+      "ci95": [
+        0.7961107336956521,
+        1.0
+      ]
+    },
+    "mrr@5": {
+      "value": 0.9666666666666667,
+      "n": 15
+    }
+  },
+  "abstention": {
+    "correct_on_unanswerable": {
+      "k": 4,
+      "n": 5,
+      "value": 0.8,
+      "ci95": [
+        0.3755282641185388,
+        0.9637768390302125
+      ]
+    },
+    "false_on_answerable": {
+      "k": 2,
+      "n": 15,
+      "value": 0.13333333333333333,
+      "ci95": [
+        0.0373604698913593,
+        0.3788249920651624
+      ]
+    }
+  },
+  "answers": {
+    "with_verified_citation": {
+      "k": 13,
+      "n": 13,
+      "value": 1.0,
+      "ci95": [
+        0.7718981569447083,
+        1.0
+      ]
+    },
+    "contains_expected_text": {
+      "k": 13,
+      "n": 13,
+      "value": 1.0,
+      "ci95": [
+        0.7718981569447083,
+        1.0
+      ]
+    },
+    "flagged_for_human_review": {
+      "k": 14,
+      "n": 20,
+      "value": 0.7,
+      "ci95": [
+        0.4810232237710206,
+        0.854524726031006
+      ]
+    }
+  },
+  "operation": {
+    "latency_ms_mean": 0.07100000000000001,
+    "latency_ms_p95": 0.12250000000000003,
+    "input_tokens_total": null,
+    "output_tokens_total": null,
+    "cost_usd_total": null
+  },
+  "failures": {
+    "retrieval_misses": [],
+    "false_abstentions": [
+      "q12",
+      "q15"
+    ],
+    "missed_abstentions": [
+      "u05"
+    ]
+  }
+}

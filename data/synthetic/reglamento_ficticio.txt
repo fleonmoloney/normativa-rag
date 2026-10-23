@@ -1,0 +1,32 @@
+REGLAMENTO INTERNO DE COMPRAS DE LA ENTIDAD EJEMPLO
+DOCUMENTO FICTICIO PARA PRUEBAS: este texto fue inventado para probar el sistema. No es una norma real y sus cifras no corresponden a ninguna normativa vigente.
+
+Artículo 1.- (Objeto) El presente reglamento regula las compras de bienes y servicios de la Entidad Ejemplo.
+
+Artículo 2.- (Compra directa) Podrán realizarse por compra directa las adquisiciones cuyo monto no supere 500 unidades de referencia. La compra directa requiere al menos dos cotizaciones por escrito.
+
+Artículo 3.- (Licitación abreviada) Las adquisiciones cuyo monto supere 500 y no exceda 4.000 unidades de referencia se realizarán por licitación abreviada.
+
+Artículo 4.- (Licitación pública) Las adquisiciones cuyo monto supere 4.000 unidades de referencia se realizarán por licitación pública.
+
+Artículo 5.- (Plazo para recibir ofertas) En la licitación abreviada el plazo mínimo entre la publicación del llamado y la apertura de ofertas será de cinco días hábiles. En la licitación pública el plazo mínimo será de quince días hábiles.
+
+Artículo 6.- (Publicidad) Todo llamado se publicará en el sitio web de la Entidad y en el registro de proveedores, con los pliegos completos disponibles sin costo.
+
+Artículo 7.- (Garantía de mantenimiento de oferta) En las licitaciones públicas los oferentes constituirán una garantía de mantenimiento de oferta equivalente al uno por ciento del monto estimado. La garantía se devolverá a los oferentes no adjudicatarios dentro de diez días hábiles de notificada la adjudicación.
+
+Artículo 8.- (Garantía de fiel cumplimiento) El adjudicatario de una licitación pública constituirá una garantía de fiel cumplimiento del contrato equivalente al cinco por ciento del monto adjudicado, dentro de los cinco días hábiles siguientes a la notificación de la adjudicación.
+
+Artículo 9.- (Comisión asesora de adjudicaciones) La comisión asesora de adjudicaciones estará integrada por tres miembros, uno de los cuales pertenecerá al área técnica solicitante. Los integrantes declararán por escrito la inexistencia de conflictos de intereses.
+
+Artículo 10.- (Criterios de evaluación) Las ofertas se evaluarán según precio, calidad técnica y antecedentes del oferente. El pliego indicará la ponderación de cada criterio, que no podrá modificarse una vez publicado el llamado.
+
+Artículo 11.- (Oferta anormalmente baja) Si el precio de una oferta fuese inferior en más de un treinta por ciento al promedio de las demás ofertas, la comisión solicitará por escrito la justificación del precio antes de evaluarla.
+
+Artículo 12.- (Mora y penalidades) Si el proveedor incurre en mora en la entrega, se aplicará una multa diaria de uno por mil del monto del contrato incumplido, con un máximo del diez por ciento del contrato.
+
+Artículo 13.- (Recursos) Los oferentes podrán presentar recurso fundado contra la adjudicación dentro de los tres días hábiles siguientes a su notificación.
+
+Artículo 14.- (Registro de proveedores) Para ser adjudicatario el proveedor deberá estar inscripto en el registro de proveedores de la Entidad y tener vigentes sus certificados de situación regularizada ante los organismos de seguridad social y tributarios.
+
+Artículo 15.- (Compras de emergencia) En situaciones de emergencia declarada, la autoridad podrá autorizar compras directas sin límite de monto, debiendo informar a la unidad de auditoría interna dentro de las cuarenta y ocho horas.

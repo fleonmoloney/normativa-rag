@@ -1,0 +1,21 @@
+# Set de evaluación SINTÉTICO (corpus ficticio). Sirve para probar el código, no como benchmark.
+{"id":"q01","question":"¿Hasta qué monto se puede hacer una compra directa y cuántas cotizaciones se necesitan?","answerable":true,"relevant":["reglamento_ficticio#art-2"],"must_contain":["500","dos cotizaciones"]}
+{"id":"q02","question":"¿Qué procedimiento corresponde para una compra de 2.000 unidades de referencia?","answerable":true,"relevant":["reglamento_ficticio#art-3"],"must_contain":["licitación abreviada"]}
+{"id":"q03","question":"¿Desde qué monto es obligatoria la licitación pública?","answerable":true,"relevant":["reglamento_ficticio#art-4"],"must_contain":["4.000"]}
+{"id":"q04","question":"¿Cuánto tiempo debe pasar entre la publicación del llamado y la apertura en una licitación pública?","answerable":true,"relevant":["reglamento_ficticio#art-5"],"must_contain":["quince días hábiles"]}
+{"id":"q05","question":"¿Dónde se publican los llamados?","answerable":true,"relevant":["reglamento_ficticio#art-6"],"must_contain":["sitio web"]}
+{"id":"q06","question":"¿De qué porcentaje es la garantía de mantenimiento de oferta?","answerable":true,"relevant":["reglamento_ficticio#art-7"],"must_contain":["uno por ciento"]}
+{"id":"q07","question":"¿Cuándo se devuelve la garantía a quienes no ganaron la licitación?","answerable":true,"relevant":["reglamento_ficticio#art-7"],"must_contain":["diez días hábiles"]}
+{"id":"q08","question":"¿Qué porcentaje debe garantizar el adjudicatario para el fiel cumplimiento y en qué plazo?","answerable":true,"relevant":["reglamento_ficticio#art-8"],"must_contain":["cinco por ciento"]}
+{"id":"q09","question":"¿Cuántos integrantes tiene la comisión asesora y qué deben declarar?","answerable":true,"relevant":["reglamento_ficticio#art-9"],"must_contain":["tres miembros"]}
+{"id":"q10","question":"¿Se puede cambiar la ponderación de los criterios después de publicar el llamado?","answerable":true,"relevant":["reglamento_ficticio#art-10"],"must_contain":["no podrá modificarse"]}
+{"id":"q11","question":"¿Qué pasa si una oferta es mucho más barata que las demás?","answerable":true,"relevant":["reglamento_ficticio#art-11"],"must_contain":["treinta por ciento"]}
+{"id":"q12","question":"¿Cuál es la multa por entregar tarde?","answerable":true,"relevant":["reglamento_ficticio#art-12"],"must_contain":["uno por mil"]}
+{"id":"q13","question":"¿En cuántos días se puede recurrir la adjudicación?","answerable":true,"relevant":["reglamento_ficticio#art-13"],"must_contain":["tres días hábiles"]}
+{"id":"q14","question":"¿Qué certificados debe tener vigentes un proveedor para ser adjudicatario?","answerable":true,"relevant":["reglamento_ficticio#art-14"],"must_contain":["situación regularizada"]}
+{"id":"q15","question":"¿Se puede comprar sin licitación en una emergencia?","answerable":true,"relevant":["reglamento_ficticio#art-15"],"must_contain":["cuarenta y ocho horas"]}
+{"id":"u01","question":"¿Cuál es la política de vacaciones del personal de la entidad?","answerable":false}
+{"id":"u02","question":"¿Qué requisitos tiene la importación de equipos médicos desde el extranjero?","answerable":false}
+{"id":"u03","question":"¿Cómo se calcula el aguinaldo?","answerable":false}
+{"id":"u04","question":"¿Cuál es la capital de Francia?","answerable":false}
+{"id":"u05","question":"¿Cuál es el monto máximo para comprar bienes informáticos?","answerable":false}
